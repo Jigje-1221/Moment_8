@@ -17,6 +17,10 @@ a{
     text-decoration: none;
 }
 
+nav{
+    display: none;
+}
+
 nav > ul > li{
     display: flex;
     height: 40px;
@@ -50,7 +54,7 @@ nav > ul > li{
     width: 40px;
 }
 
-#hamburger_meny{
+#hamburgerMeny{
     display: flex;
 }
 
