@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+}
+
+li{
+    list-style-type: none;
+}
+
+.side_top{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+
+.logomark_container{
+    display: flex;
+}
+
+.logomark{
+    width: 40px;
+}
+
+#hamburger_meny{
+    display: flex;
+}
+.hamburger{
+    width: 40px;
+}
